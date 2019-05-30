@@ -1,0 +1,4 @@
+#Fri Mar 22 16:42:54 CST 2019
+base.0=E\:\\Android\\project\\pemvideo_otp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

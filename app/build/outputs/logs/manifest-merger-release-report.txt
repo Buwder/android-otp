@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.5.aar\b7a9f7a1d493542d16ecef79aa08c97d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba2cf1a88f8780ca9d65d365697f03d1\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:11:22-75
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:13:22-85
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:14:5-120
+	tools:ignore
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:14:82-117
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:14:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:15:22-77
+application
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:16:5-57:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba2cf1a88f8780ca9d65d365697f03d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba2cf1a88f8780ca9d65d365697f03d1\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:20:9-40
+receiver#pem.com.pemvideo.MyReceiver
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:enabled
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:23:13-35
+	android:exported
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:22:13-55
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:25:13-27:29
+	android:priority
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:25:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:26:17-79
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:26:25-76
+activity#pem.com.pemvideo.Waiting
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:30:9-40:20
+	android:screenOrientation
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:34:13-50
+	android:label
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:32:13-59
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:31:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:38:27-74
+activity#pem.com.pemvideo.MainActivity
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:41:9-44:57
+	android:screenOrientation
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:43:13-50
+	android:windowSoftInputMode
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:42:13-57
+activity#pem.com.pemvideo.InitIpActivity
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:45:9-48:57
+	android:screenOrientation
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:47:13-50
+	android:windowSoftInputMode
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:48:13-54
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:46:13-59
+activity#pem.com.pemvideo.ManagerLoginActivity
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:49:9-52:57
+	android:screenOrientation
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:51:13-50
+	android:windowSoftInputMode
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:50:13-65
+activity#pem.com.pemvideo.ConfigurationActivity
+ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:53:9-56:57
+	android:screenOrientation
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:55:13-50
+	android:windowSoftInputMode
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:56:13-54
+	android:name
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml:54:13-66
+uses-sdk
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.5.aar\b7a9f7a1d493542d16ecef79aa08c97d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.5.aar\b7a9f7a1d493542d16ecef79aa08c97d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aefcdd9561c33a031913c8f5fc657127\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba2cf1a88f8780ca9d65d365697f03d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Buwder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba2cf1a88f8780ca9d65d365697f03d1\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\project\pemvideo_otp\app\src\main\AndroidManifest.xml

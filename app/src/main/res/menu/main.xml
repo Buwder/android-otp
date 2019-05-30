@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<item  
+        android:id="@+id/option_item1"  
+        android:orderInCategory="100"  
+        android:title="管理员登录"/>  
+
+</menu>
